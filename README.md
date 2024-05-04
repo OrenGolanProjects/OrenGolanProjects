@@ -3,14 +3,21 @@
   
   [comment]: <> (Hello)
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=False&width=450&height=60&lines=Hi%2C+I'm+Oren!;I'm+a+software+developer 👋🏻 👨🏻‍💻‍💻">
+    
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
+
   
 </h1>
 
 <div>
-  <p>I'm excited to share my coding journey with you. On this page, you'll find code of my projects that I've written to develop my skills and explore new technologies.</p>
-  <p>Feel free to reach out to me and let's see how we can work together to make some great projects happen.</p>
+  <p>I'm excited to share my coding journey with you. On this page, you'll find the code of the projects I've written to develop my skills and explore new technologies.</p>
+  <p>Feel free to let me know how we can work together to make some great projects happen.</p>
   <p>Happy coding!</p>
-
 
 <h1 align = "center">
   
@@ -18,6 +25,8 @@
   
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OrenGolanProjects" >
 </h1>
+
+
 
 </div>
 
